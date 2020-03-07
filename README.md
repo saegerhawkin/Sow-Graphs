@@ -1,5 +1,5 @@
 # Exploring Sow Data With Python
-During my 2019 summer internship at Johnsonville I explored some functionality of Python. I took some open sourced USDA data from their website: https://www.usda.gov/topics/data I was mostly concerned with looking at sow data because this is what Johnsonville purchases for their sausages. I have included the static CSVs that I used for this analysis. To see the code work interactively, use the nbviewer links I've included, otherwise you will not see the graph.
+During my 2019 summer internship at Johnsonville I explored some functionality of Python. I took some open sourced USDA data from their website: https://www.usda.gov/topics/data I was mostly concerned with looking at sow data as this is the type of pig Johnsonville purchases for their sausages. I have included the static CSVs that I used for this analysis. <strong> To see the code work interactively, use the nbviewer links I've included, otherwise you will not see the graph. </strong>
 
 There are three notebook files in this repository. Each one is for a different feature.
 
